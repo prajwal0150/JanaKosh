@@ -20,6 +20,6 @@ simple way to know where that money goes. Janakosh changes that.
 - 🇳🇵 Full Nepali language support
 
 ### Tech stack
-`MongoDB` · `Express.js` · `React.js` · `Node.js` · `MySQL` · `Tailwind CSS`
+`Express.js` · `React.js` · `Node.js` · `MySQL` · `Tailwind CSS`
 
 > *"Mero paisa kahaan gayo?" — Janakosh answers that question.*
